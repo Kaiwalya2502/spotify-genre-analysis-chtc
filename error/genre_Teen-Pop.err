@@ -1,0 +1,2 @@
+/var/lib/condor/execute/slot1/dir_368295/packages/seaborn/matrix.py:202: RuntimeWarning: All-NaN slice encountered
+  vmin = np.nanmin(calc_data)

@@ -1,0 +1,2 @@
+/var/lib/condor/execute/slot1/dir_3771299/corr_script.py:73: FutureWarning: The behavior of DataFrame concatenation with empty or all-NA entries is deprecated. In a future version, this will no longer exclude empty or all-NA columns when determining the result dtypes. To retain the old behavior, exclude the relevant entries before the concat operation.
+  tracks_df = pd.concat([tracks_df, pd.DataFrame([processed_data])], ignore_index=True)
